@@ -1,6 +1,10 @@
 # eslint-plugin-react-conventions
 
-Some recommended conventions to enforce in react projects
+Some recommended conventions to enforce in react projects.
+
+This borrows heavily from the work of the original [ESLint Complexity rule](https://eslint.org/docs/rules/complexity), as well as the component detection routines in [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react). This synthesizes their work.
+
+Big thanks to them!
 
 ## Installation
 
