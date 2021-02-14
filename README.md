@@ -46,7 +46,7 @@ Then configure the rules you want to use under the rules section.
 
 ## Supported Rules
 
-* Fill in provided rules here
+* [react-conventions/component-complexity](https://github.com/lessenadam/eslint-plugin-react-conventions/blob/main/lib/rules/component-complexity.js)
 
 
 
